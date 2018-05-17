@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "744418380734",
+    "firebase_url": "https://salimrahmat-pushnotif-d2706.firebaseio.com",
+    "project_id": "salimrahmat-pushnotif-d2706",
+    "storage_bucket": "salimrahmat-pushnotif-d2706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744418380734:android:2b23b94dc859af35",
+        "android_client_info": {
+          "package_name": "bacis.ghistayumna.com.mypushnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744418380734-b9fqdqem6a40tnsaei73fjqsh0ittmus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bacis.ghistayumna.com.mypushnotif",
+            "certificate_hash": "75535738cbd288773caa803f4b9137f3301cef57"
+          }
+        },
+        {
+          "client_id": "744418380734-56rvkvbfiac06s3lcft4s59dvu0sste5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJnp5RxdfKWP5Xv6dbKE5Y14e2I3H5aZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744418380734-56rvkvbfiac06s3lcft4s59dvu0sste5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
